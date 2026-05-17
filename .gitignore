@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.egg-info/
+dist/
+build/
+venv/
+env/
+ENV/
+
+# Vercel
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
